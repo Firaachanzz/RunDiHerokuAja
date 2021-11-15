@@ -52,7 +52,7 @@ _________________________
      "txtDonasi": "Saweeria : https://saweria.co/DonasiAjj"
 }
 ```
-- Setting edit to [this section](https://github.com/KirBotz/RunDiHerokuAja/setting.json)
+- Setting edit to [this section](https://github.com/KirBotz/RunDiHerokuAja/blob/master/setting.json)
 
 ## Bot Uji coba di bawah
 * [KirBotz](https://wa.me/380945693638)
