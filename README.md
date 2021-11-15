@@ -8,10 +8,10 @@ Anda Bisa  Langsung Install Dengan Cara Klik
 Deploy Di Bawah 👇 
 
 ##### Deploy To Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Xfazd-team/XFazd-bot)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kirbotz/RunDiHerokuAja)
 
 ##### Deploy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xfazd-team/XFazd-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kirbotz/RunDiHerokuAja)
 
 _________________________
 
@@ -19,9 +19,9 @@ _________________________
 ```bash
 > $ pkg install nodejs git ffmpeg libwebp
 
-> $ git clone https://github.com/Xfazd-team/XFazd-bot
+> $ git clone https://github.com/Kirbotz/RunDiHerokuAja
 
-> $ cd XFazd-bot
+> $ cd RunDiHerokuAja
 
 > $ npm i
 
@@ -30,9 +30,9 @@ _________________________
 
 ## Windows/Rdp/Vps Install
 ```bash
-> $ git clone https://github.com/Xfazd-team/XFazd-bot
+> $ git clone https://github.com/Kirbotz/RunDiHerokuAja
 
-> $ cd XFazd-bot
+> $ cd RunDiHerokuAja
 
 > $ npm i
 
@@ -42,14 +42,14 @@ _________________________
 ## Setting Bot
 ```bash
 {
-	"sesionName": "fazd", <- Nama session Anda
-	"botName": "Fazd-bot", <- Nama Bot Anda
-	"antiDelete": true,
-	"autoRead": true,
-	"antiSpam": true,
-	"pathImg": "./media/Fazd.jpg", <- Image anda
-	"ArdyKey": "YourApikey", <- Your apikey buy to ardyapi
-        "imgUrl": "https://i.ibb.co/fkqy1XK/Fazd.jpg" <- Image to url anda
+     "prefix": ".",
+     "ownerNumber": "6287705048235@s.whatsapp.net",
+     "sessionName": "Akira",
+     "ownerName": "Akira",
+     "owner": "6287705048235",
+     "botName": "KirBotz",
+     "lolkey": "GuraLol",
+     "txtDonasi": "Saweeria : https://saweria.co/DonasiAjj"
 }
 ```
 - Setting edit to [this section](https://github.com/Kirbotz/RunDiHerokuAja/setting.json)
