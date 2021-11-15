@@ -8,10 +8,10 @@ Anda Bisa  Langsung Install Dengan Cara Klik
 Deploy Di Bawah 👇 
 
 ##### Deploy To Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kirbotz/RunDiHerokuAja)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/KirBotz/RunDiHerokuAja)
 
 ##### Deploy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kirbotz/RunDiHerokuAja)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KirBotz/RunDiHerokuAja)
 
 _________________________
 
@@ -19,7 +19,7 @@ _________________________
 ```bash
 > $ pkg install nodejs git ffmpeg libwebp
 
-> $ git clone https://github.com/Kirbotz/RunDiHerokuAja
+> $ git clone https://github.com/KirBotz/RunDiHerokuAja
 
 > $ cd RunDiHerokuAja
 
@@ -30,7 +30,7 @@ _________________________
 
 ## Windows/Rdp/Vps Install
 ```bash
-> $ git clone https://github.com/Kirbotz/RunDiHerokuAja
+> $ git clone https://github.com/KirBotz/RunDiHerokuAja
 
 > $ cd RunDiHerokuAja
 
@@ -52,7 +52,7 @@ _________________________
      "txtDonasi": "Saweeria : https://saweria.co/DonasiAjj"
 }
 ```
-- Setting edit to [this section](https://github.com/Kirbotz/RunDiHerokuAja/setting.json)
+- Setting edit to [this section](https://github.com/KirBotz/RunDiHerokuAja/setting.json)
 
 ## Bot Uji coba di bawah
 * [KirBotz](https://wa.me/380945693638)
